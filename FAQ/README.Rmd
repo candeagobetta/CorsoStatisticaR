@@ -35,6 +35,8 @@ Ci saranno piccoli incarichi di lezione in lezione, e verranno portati avanti pr
 Essendo il primo anno il formato della prova finale non è _esattamente_ definito.  
 L'idea è di farvi utilizzare in un'analisi organica tutti i piccoli compiti che vi vengono assegnati durante il corso.
 
+### Perché si usa proprio GitHub?
+
 
 ## Domande tecniche:
 
